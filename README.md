@@ -1,7 +1,7 @@
 # MySQL_Demo
 Qt应用MySQL数据库示例,基于Qt6.4.2和MySQL8.0.x,完成增删改查操作。
 
-Sql_Lite示例参考另一项目
+Sql_Lite示例参考另一项目：https://github.com/xluu233/SQLite_Demo
  
 QT6之后官方不再提供driver,需要自己编译，集成参考：https://blog.csdn.net/laomengnevergiveup/article/details/128848214
 
